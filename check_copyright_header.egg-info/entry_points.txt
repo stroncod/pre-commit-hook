@@ -1,0 +1,2 @@
+[console_scripts]
+check-headers = check_headers.main:main

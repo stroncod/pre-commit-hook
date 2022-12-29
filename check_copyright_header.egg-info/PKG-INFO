@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: check-copyright-header
+Version: 0.1.0
+Summary: check if all files has the copyright
+Author: Sebastian Raaphorst & Sergio Troncoso
+Author-email: [sebastian.raaphorst@noirlab.edu, sergio.troncoso@noirlab.edu]
+License: MIT
