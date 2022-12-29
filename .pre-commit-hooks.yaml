@@ -1,0 +1,5 @@
+- id: checkcpyrightheader
+  name: Check for Copyright headers
+  description: Add Noirlab's Copyright headers
+  entry: check-copyright-header
+  language: python
