@@ -1,5 +1,5 @@
 - id: checkcpyrightheader
-  name: Check for Copyright headers
-  description: Add Noirlab's Copyright headers
-  entry: check-copyright-header
+  name: Check for AURA Copyright headers
+  description: Add Auras's Copyright headers
+  entry: check-headers
   language: python

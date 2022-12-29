@@ -6,4 +6,5 @@ check_copyright_header.egg-info/dependency_links.txt
 check_copyright_header.egg-info/entry_points.txt
 check_copyright_header.egg-info/top_level.txt
 check_headers/__init__.py
+check_headers/definitions.py
 check_headers/main.py
